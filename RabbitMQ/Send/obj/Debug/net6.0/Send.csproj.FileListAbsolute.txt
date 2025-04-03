@@ -1,8 +1,5 @@
 C:\RabbitMQ\Send\bin\Debug\net6.0\Send.exe
-C:\RabbitMQ\Send\bin\Debug\net6.0\Send.deps.json
-C:\RabbitMQ\Send\bin\Debug\net6.0\Send.runtimeconfig.json
 C:\RabbitMQ\Send\bin\Debug\net6.0\Send.dll
-C:\RabbitMQ\Send\bin\Debug\net6.0\Send.pdb
 C:\RabbitMQ\Send\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\RabbitMQ\Send\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\RabbitMQ\Send\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
@@ -18,5 +15,8 @@ C:\RabbitMQ\Send\obj\Debug\net6.0\Send.csproj.CopyComplete
 C:\RabbitMQ\Send\obj\Debug\net6.0\Send.dll
 C:\RabbitMQ\Send\obj\Debug\net6.0\refint\Send.dll
 C:\RabbitMQ\Send\obj\Debug\net6.0\Send.pdb
+C:\RabbitMQ\Send\bin\Debug\net6.0\Send.deps.json
+C:\RabbitMQ\Send\bin\Debug\net6.0\Send.runtimeconfig.json
+C:\RabbitMQ\Send\bin\Debug\net6.0\Send.pdb
 C:\RabbitMQ\Send\obj\Debug\net6.0\Send.genruntimeconfig.cache
 C:\RabbitMQ\Send\obj\Debug\net6.0\ref\Send.dll
